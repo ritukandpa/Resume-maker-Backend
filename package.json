@@ -1,0 +1,39 @@
+{
+  "name": "inventory-management-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "PVS",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "cross-spawn": "^7.0.6",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "docx": "^9.2.0",
+    "docxtemplater": "^3.60.1",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "fast-csv": "^5.0.1",
+    "fs-extra": "^11.3.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.4.1",
+    "multer": "^1.4.5-lts.1",
+    "node-mailjet": "^6.0.5",
+    "nodemailer": "^6.9.13",
+    "pdfkit": "^0.16.0",
+    "pizzip": "^3.1.8",
+    "sib-api-v3-sdk": "^8.5.0"
+  }
+}
